@@ -48,7 +48,7 @@ ram.runtime = "500M"
 
         [resources.sources.main]
         url = "https://github.com/xwiki-labs/cryptpad/archive/refs/tags/2024.12.0.tar.gz"
-        sha256 = "1532af97c205259b7b09abe34c65840712062573a5090a72c81503d4f286f873"
+        sha256 = "62b4b0f20fef16753d677b73bb2891a44e6bbea984a2137f27d57f4e089695bc"
         autoupdate.strategy = "latest_github_tag"
 
     [resources.ports]
